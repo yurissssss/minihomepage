@@ -34,3 +34,7 @@
 # 서치
 
 - search.md 추가
+
+# 사이드바
+
+- sidebar.md 추가
