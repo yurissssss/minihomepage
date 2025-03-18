@@ -30,3 +30,7 @@
 # 푸터
 
 - footer.md 추가
+
+# 서치
+
+- search.md 추가
